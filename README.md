@@ -23,5 +23,5 @@ Ob poslušanju soočenja Kangler vs. Arsenovič mi je postalo slabo. Vzel sem si
 * Aktivacija seniorjev po vzoru t.i. Blue spots; naj bodo "dodana vrednost" in ne "breme". Deliti dobre prakse s svetom
 * Universal basic income: pilotna študija s 500 udeleženci oz. minimalnim reprezentativnim samplom
 * Smučanje: prioriteta, naj povedo znalci, glej decentralised governance
-
+* Tvoj predlog?
  
