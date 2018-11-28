@@ -1,6 +1,6 @@
 # Program za Maribor
 
-Ob poslušanju soočenja Kangler vs. Arsenovič mi je postalo slabo. Vzel sem si 10 min časa in naštel spodnje točke. Za konkreten program bi bila potrebna dejanska študije in strokovnjaki.:) Pull requesti in forki dobrodošli. 
+Ob poslušanju soočenja Kangler vs. Arsenovič mi je postalo slabo. Vzel sem si 15 min časa in naštel spodnje točke. Za konkreten program bi bila potrebna dejanska študije in strokovnjaki.:) Pull requesti in forki dobrodošli. 
 
 * Smart city: vzpostaviti začetno partnerstvo med UM in MOM. Nato razširiti v konzorcij in zagotoviti sredstva za pilotne projekte (npr. tale razpis MGRT-ja je dober primer). Smart city zgraditi na decentraliziranih tehnologijah
 * Data economy: pilotni projekti, kjer meščani s svojimi podatki izboljšujejo mesto (npr. lokacijski podatki, subjective well being research,...). V zameno mesto omogoči zastonj storitve kot je npr. mestni prevoz.
@@ -11,7 +11,8 @@ Ob poslušanju soočenja Kangler vs. Arsenovič mi je postalo slabo. Vzel sem si
 * Lokalne takse se lahko plačujejo v kriptovalutah (vzor: Zug, Švica)
 * Decentralised governance: pilotni projekti, kjer se krajevne skupnosti same organizirajo; vključiti meščane v budgeting
 * S strani mesta financirana dobrodelnost manjšega obsega, kjer je "accountability na prvem mestu" (giveth.io)
-* S strani mesta uporabljena decentralizirana project management platforma za javna dela (glej colony.io) 
+* S strani mesta uporabljena decentralizirana project management platforma za javna dela (glej colony.io)
+* In essence, decentralise everything. Ob centralizaciji kot jo imamo, ni veliko tveganja, da bi šlo na slabše.
 * City as a service: do meščanov kakor tudi trženje know-how in lastno razvitih storitev (glej zgoraj)
 * Subvencionirati prenovo mestnega jedra. Kar je v lasti MOM-a oddajati po simbolični najemnini umetnikom in kreativni industriji (kot Berlin), rokodelcem, bio pridelkom,...
 * Polna podpora in razvoj Pekarne
