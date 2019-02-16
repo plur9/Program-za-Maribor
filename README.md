@@ -1,6 +1,6 @@
 # Program za Maribor
 
-Ob poslušanju soočenja Kangler vs. Arsenovič mi je postalo slabo. Vzel sem si 15 min časa in naštel spodnje točke. Za konkreten program bi bila potrebna dejanska študije in strokovnjaki.:) Pull requesti in forki dobrodošli. 
+Ob poslušanju soočenja Kangler vs. Arsenovič sem si vzel 15 min časa in naštel spodnje točke. Za konkreten program bi bila potrebna dejanska študije in strokovnjaki.:) Pull requesti in forki dobrodošli. 
 
 * Smart city: vzpostaviti začetno partnerstvo med UM in MOM. Nato razširiti v konzorcij in zagotoviti sredstva za pilotne projekte (npr. tale razpis MGRT-ja je dober primer). Smart city zgraditi na decentraliziranih tehnologijah
 * Data economy: pilotni projekti, kjer meščani s svojimi podatki izboljšujejo mesto (npr. lokacijski podatki, subjective well being research,...). V zameno mesto omogoči zastonj storitve kot je npr. mestni prevoz.
